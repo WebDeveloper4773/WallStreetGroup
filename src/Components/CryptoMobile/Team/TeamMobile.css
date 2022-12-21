@@ -1,0 +1,47 @@
+.team-mobile {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+} 
+.trust-items-mobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.team-item-mobile {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border-radius: 32px;
+    margin-bottom: 40px;
+}
+.team-item-mobile img{
+    width: 100%;
+    border-radius: 32px;
+}
+.trust-items-mobile .team-name span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    margin-top: 16px;
+    margin-bottom: 12px;
+}
+.trust-items-mobile .team-name a {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #8B8E8F;   
+}
+.trust-items-mobile .team-name a:hover {
+    color:#FFFFFF;
+}

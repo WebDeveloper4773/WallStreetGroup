@@ -1,0 +1,33 @@
+@media (max-width: 1224px) {
+  div.main {
+    width: 100%;
+  }
+}
+
+@media (max-width: 960px) {
+  div.main-mobile {
+    display: block;
+  }
+  div.main {
+    display: none;
+  }
+  div.main-container {
+    padding: 0 20px;
+  }
+}
+.main-mobile {
+  display: none;
+  width: 100%;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background: #000000;
+}
+.main {
+  width: 1200px;
+  position: relative;
+}

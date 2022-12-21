@@ -1,0 +1,71 @@
+.faq-mobile {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.faq-mobile .trust-text h3{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;    
+}
+.faq-content-mobile {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.faq-items-mobile {
+    min-width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+.faq-content-mobile .faq-item-q {
+    width: 100%;
+}
+.faq-content-mobile div.faq-about {
+    width:100%
+}
+.faq-content-mobile div.faq-about p{
+    width: 90%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #8B8E8F;    
+}
+.faq-content-mobile .faq-item-q p {
+    width: 90%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    margin: 0;
+    color: #FFFFFF;   
+}
+.faq-mobile-svg {
+    max-width: 18px;
+    max-height: 10.5px;
+}
+.faq-content-mobile .faq-item-q svg {
+    max-width: 100%;
+    max-height: 100%;
+}
+.faq-content-mobile .faq-answer {
+    width: 100%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #8B8E8F;    
+}

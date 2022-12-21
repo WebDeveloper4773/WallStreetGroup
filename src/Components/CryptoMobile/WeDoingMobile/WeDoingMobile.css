@@ -1,0 +1,36 @@
+.wedoing-mobile {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.wedoing-mobile h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+    margin-top: 48px;
+    margin-bottom: 25px;
+}
+.wedoing-mobile p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    color: #8B8E8F;
+    margin: 0;
+    margin-bottom: 46px; 
+}
+.wlcrypto-img-mobile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.wlcrypto-img-mobile img {
+    width: 100%;
+    margin: 0 12px;
+}

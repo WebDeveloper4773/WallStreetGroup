@@ -1,0 +1,116 @@
+@media (max-width: 1224px) {
+    div.trust {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+        height: auto; 
+        padding: 0 20px;
+        margin-top: 167px;
+    }
+    div.trust-items {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: center;
+        height: auto;  
+    }
+    div.trust-item {
+        margin-bottom: 30px;
+    }
+}
+.trust {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 825px;
+}
+.trust-text {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.trust-text h3 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 61px;
+    color: #FFFFFF;
+}
+.trust-items {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width:100%;
+}
+.trust-item {
+    width: 380px;
+    height: 550px;
+
+    background: #121212;
+    border-radius: 24px;
+    margin: 0;
+}
+.trust-about {
+    max-width: 100%;
+    min-height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    padding: 0 34px;
+    margin:0;
+}
+.trust-about h4{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    /* identical to box height */
+    margin: 0;
+    margin-top: 40px; 
+    color: #FFFFFF;
+}
+.trust-about p {   
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    margin: 0;
+    margin-top: 16px;
+    margin-bottom: 25px;
+    /* Gray 1 */
+
+    color: #8B8E8F;
+}
+.trust-about a {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.trust-about a img {
+    margin-left: 10px;
+}
+.trust-img1 {
+    height: 50%;
+    width: 100%;
+    border-radius:0 0 24px 24px;
+}
+.trust-img2 {
+    height: 50%;
+    width: 100%;
+    border-radius:24px 24px 0 0;
+}

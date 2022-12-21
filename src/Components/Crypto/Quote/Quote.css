@@ -1,0 +1,84 @@
+@media (max-width: 1224px) {
+    div.quote {
+        margin-top: 45px;
+        margin-bottom: 25px;
+        padding: 0 20px;
+    }
+}
+.quote {
+    max-width: 100%;
+    height: 322px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.quote-com {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+    gap: 24px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 24px;
+    margin: 0;
+}
+.quote-com p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    margin: 0;
+    margin-bottom: 24px;
+    /* White */
+
+    color: #FFFFFF;
+}
+.quote-user {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 64px;
+}
+.quote-user img{
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
+    margin-right: 15px;
+}
+.user-about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 5px;
+}
+.user-about span {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #8B8E8F;
+}
+.user-about p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #8B8E8F;
+    margin: 0;
+}
+.quote-content {
+    height: 146px;
+    width: 810px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    margin: 0;
+}

@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/WallStreetGroup/static/css/main.2c9f59c3.css",
+    "main.js": "/WallStreetGroup/static/js/main.70f828cb.js",
+    "static/js/787.0f2a38f6.chunk.js": "/WallStreetGroup/static/js/787.0f2a38f6.chunk.js",
+    "static/media/history1.png": "/WallStreetGroup/static/media/history1.9316149d220ad5522235.png",
+    "static/media/history2.png": "/WallStreetGroup/static/media/history2.ffd99bb705acbfc1bbcd.png",
+    "static/media/history3.png": "/WallStreetGroup/static/media/history3.51713df76812e520916c.png",
+    "static/media/Rectangle2.png": "/WallStreetGroup/static/media/Rectangle2.f28c8d115cd7001ceb98.png",
+    "static/media/team1.png": "/WallStreetGroup/static/media/team1.08e5e43119f120b0ce17.png",
+    "static/media/PhoneChat.png": "/WallStreetGroup/static/media/PhoneChat.a1c652daac8f662c320a.png",
+    "static/media/img_buy.png": "/WallStreetGroup/static/media/img_buy.7aa799159d2bf06662b9.png",
+    "static/media/Rectangle1.jpg": "/WallStreetGroup/static/media/Rectangle1.aaac0a44ae29286f7593.jpg",
+    "static/media/team2.png": "/WallStreetGroup/static/media/team2.8b8d1fa0c786531f1c96.png",
+    "static/media/Frame58.png": "/WallStreetGroup/static/media/Frame58.f6dc719a3760ccd91bfe.png",
+    "static/media/Frame59.png": "/WallStreetGroup/static/media/Frame59.4d5d8e76af9bce123986.png",
+    "static/media/Frame.png": "/WallStreetGroup/static/media/Frame.6b90e041c3e985032e70.png",
+    "static/media/Frame60.png": "/WallStreetGroup/static/media/Frame60.9d3317013a53ae3d575e.png",
+    "static/media/Frame102.png": "/WallStreetGroup/static/media/Frame102.5ec5775e6f0d8937edf8.png",
+    "static/media/open-stat.png": "/WallStreetGroup/static/media/open-stat.b4c063dc623ceb5c55d3.png",
+    "index.html": "/WallStreetGroup/index.html",
+    "main.2c9f59c3.css.map": "/WallStreetGroup/static/css/main.2c9f59c3.css.map",
+    "main.70f828cb.js.map": "/WallStreetGroup/static/js/main.70f828cb.js.map",
+    "787.0f2a38f6.chunk.js.map": "/WallStreetGroup/static/js/787.0f2a38f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c9f59c3.css",
+    "static/js/main.70f828cb.js"
+  ]
+}

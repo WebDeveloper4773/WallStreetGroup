@@ -20,7 +20,7 @@ const Team = () => {
                             <span>Айдар Саляхов</span>
                             <a href="https://t.me/millioner">@millioner</a>
                         </div>
-                        <Inst />
+                        <a href="https://t.me/millioner"><Inst /></a>
                     </div>
                 </div>
                 <div className="team-item">
@@ -30,7 +30,7 @@ const Team = () => {
                             <span>Бенедикт Суперскотч</span>
                             <a href="https://t.me/millioner">@millioner</a>
                         </div>
-                        <Inst />
+                        <a href="https://t.me/millioner"><Inst /></a>
                     </div>
                 </div>
                 <div className="team-item">
@@ -40,7 +40,7 @@ const Team = () => {
                             <span>Бенедикт Суперскотч</span>
                             <a href="https://t.me/millioner">@millioner</a>
                         </div>
-                        <Inst />
+                        <a href="https://t.me/millioner"><Inst /></a>
                     </div>
                 </div>
             </div>

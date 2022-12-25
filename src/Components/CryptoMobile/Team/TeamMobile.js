@@ -22,7 +22,7 @@ const TeamMobile = () => {
                             <span>Айдар Саляхов</span>
                             <a href="https://t.me/millioner">@millioner</a>
                         </div>
-                        <Inst2 />
+                        <a href="https://t.me/millioner"><Inst2 /></a>
                     </div>
                 </div>
                 <div className="team-item-mobile">
@@ -32,7 +32,7 @@ const TeamMobile = () => {
                             <span>Бенедикт Камбербэтч</span>
                             <a href="https://t.me/millioner">@millioner</a>
                         </div>
-                        <Inst2 />
+                        <a href="https://t.me/millioner"><Inst2 /></a>
                     </div>
                 </div>
                 <div className="team-item-mobile">
@@ -42,7 +42,7 @@ const TeamMobile = () => {
                             <span>Бенедикт Камбербэтч</span>
                             <a href="https://t.me/millioner">@millioner</a>
                         </div>
-                        <Inst2 />
+                        <a href="https://t.me/millioner"><Inst2 /></a>
                     </div>
                 </div>
             </div>

@@ -18,19 +18,19 @@ const HistoryMobile = () => {
                 <div className="history-item-mobile">
                     <img src={History1} className="history-img-mobile"></img>
                     <div className="history-absolute-mobile">
-                        <p>Кирилл смог уволиться с<br /> работы и посвятить<br /> освободившееся время<br /> предпринимательству</p>
+                        <p>Кирилл смог уволиться с работы и посвятить освободившееся время предпринимательству</p>
                     </div>
                 </div>
                 <div className="history-item-mobile">
                     <img src={History2} className="history-img-mobile"></img>
                     <div className="history-absolute-mobile">
-                        <p>Саня купил автомобиль без <br />кредита и совмещает<br /> инвестиции с работой</p>
+                        <p>Саня купил автомобиль без кредита и совмещает инвестиции с работой</p>
                     </div>
                 </div>
                 <div className="history-item-mobile">
                     <img src={History3} className="history-img-mobile"></img>
                     <div className="history-absolute-mobile">
-                        <p>Диму трейдинг<br />  замотивировал на <br/> обучение </p>
+                        <p>Диму трейдинг замотивировал на обучение </p>
                     </div>
                 </div>
             </div>

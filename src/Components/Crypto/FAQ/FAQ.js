@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react'
 import './FAQ.css'
-import Vector from './../../Svg/Vector'
+import Vector15 from './../../Svg/Vector15'
 import Telegram3 from './../../Svg/Telegram3'
 import classNames from 'classnames'
 
@@ -49,7 +49,7 @@ const FAQ = () => {
                     <div className={answ1} onClick={() => onClick(1)}>
                         <div className="faq-item-q" >
                             <p>Что такое сигналы?</p>
-                            <Vector/>
+                            <Vector15/>
                         </div>
                         <div className="faq-answer">
                             Да, у нас есть партнерская программа. Для того, чтобы пригласить человека вы должны запросить у менеджера уникальный промокод. Вы сможете получать от 3 до 8% с каждого подписчика. За более подробной информацией обращайтесь в телеграм — @sales_wsb
@@ -58,7 +58,7 @@ const FAQ = () => {
                     <div className={answ2} onClick={() => onClick(2)}>
                         <div className="faq-item-q">
                             <p>Впервые слышу про трейдинг. Это подойдет для меня?</p>
-                            <Vector/>
+                            <Vector15/>
                         </div>
                         <div className="faq-answer">
                             Да, у нас есть партнерская программа. Для того, чтобы пригласить человека вы должны запросить у менеджера уникальный промокод. Вы сможете получать от 3 до 8% с каждого подписчика. За более подробной информацией обращайтесь в телеграм — @sales_wsb                        
@@ -67,7 +67,7 @@ const FAQ = () => {
                     <div className={answ3} onClick={() => onClick(3)}>
                         <div className="faq-item-q">
                             <p>В каком формате будет проходить обучение?</p>
-                            <Vector/>
+                            <Vector15/>
                         </div>
                         <div className="faq-answer">
                             Да, у нас есть партнерская программа. Для того, чтобы пригласить человека вы должны запросить у менеджера уникальный промокод. Вы сможете получать от 3 до 8% с каждого подписчика. За более подробной информацией обращайтесь в телеграм — @sales_wsb
@@ -76,7 +76,7 @@ const FAQ = () => {
                     <div className={answ4} onClick={() => onClick(4)}>
                         <div className="faq-item-q">
                             <p>Какие способы оплаты доступны?</p>
-                            <Vector/>
+                            <Vector15/>
                         </div>
                         <div className="faq-answer">
                             Да, у нас есть партнерская программа. Для того, чтобы пригласить человека вы должны запросить у менеджера уникальный промокод. Вы сможете получать от 3 до 8% с каждого подписчика. За более подробной информацией обращайтесь в телеграм — @sales_wsb                        </div>
@@ -84,7 +84,7 @@ const FAQ = () => {
                     <div className={answ5} onClick={() => onClick(5)}>
                         <div className="faq-item-q">
                             <p>Есть ли партнерская программа?</p>
-                            <Vector/>
+                            <Vector15/>
                         </div>
                         <div className="faq-answer">
                             Да, у нас есть партнерская программа. Для того, чтобы пригласить человека вы должны запросить у менеджера уникальный промокод. Вы сможете получать от 3 до 8% с каждого подписчика. За более подробной информацией обращайтесь в телеграм — @sales_wsb

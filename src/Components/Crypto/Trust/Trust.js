@@ -19,7 +19,7 @@ const Trust = () => {
                     <div className="trust-about">
                         <h4>Открытая статистика</h4>
                         <p>Публикуем результаты сделок в открытой группе.</p>
-                        <a>Посмотреть <img src={Frame44} href="#"/></a>
+                        <a href="https://docs.google.com/spreadsheets/d/1y8IpzvQFm-NRurZpMcZZK2XlgJehyKuwBFJiusTft6s/edit#gid=0">Посмотреть <img src={Frame44} href="#"/></a>
                     </div>
                     <img src={Frame58} className="trust-img1" href='#'/>
                 </div>

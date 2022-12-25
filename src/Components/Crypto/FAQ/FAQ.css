@@ -6,8 +6,8 @@
     div.faq-content {
         height: auto;
         display: flex;
-        flex-direction: column;
-        justify-content: flex-start;
+        flex-direction: row;
+        justify-content: space-between;
         align-items: flex-start;
     }
     div.faq-items {
@@ -15,14 +15,14 @@
     }
     div.faq-about {
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
         justify-content: flex-start;
-        align-items: center;
+        align-items: flex-start;
         margin-bottom: 50px;
     }
     div.faq-about svg {
         margin: 0;
-        margin-left: 20px;
+        margin-top: 20px;
     }
 }
 .faq {
@@ -97,33 +97,54 @@
     margin: 0;
 }
 .faq-item svg {
+    min-width: 32px;
     fill: #8B8E8F;
+    -moz-transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+}
+.faq-item-mobile svg {
+    min-width: 32px;
+    fill: #8B8E8F;
+    -moz-transition: all .2s linear;
+    -webkit-transition: all .2s linear;
+    transition: all .2s linear;
+}
+.faq-item-mobile:hover svg {
+    fill: #FFFFFF;
 }
 .faq-item:hover svg {
     fill: #FFFFFF;
 }
 .answ-active-1 svg {
-    transform: rotate(180deg);
     fill: #FFFFFF;
+    -moz-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    transform:rotate(-90deg);
 }
 .answ-active-2 svg {
-    transform: rotate(180deg);
     fill: #FFFFFF;
+    -moz-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    transform:rotate(-90deg);
 }
 .answ-active-3 svg {
-    transform: rotate(180deg);
     fill: #FFFFFF;
+    -moz-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    transform:rotate(-90deg);
 }
 .answ-active-4 svg {
-    transform: rotate(180deg);
     fill: #FFFFFF;
+    -moz-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    transform:rotate(-90deg);
 }
 .answ-active-5 svg {
-    transform: rotate(180deg);
     fill: #FFFFFF;
-}
-.faq-item-q svg {
-    margin-top: 9px;
+    -moz-transform:rotate(-90deg);
+    -webkit-transform:rotate(-90deg);
+    transform:rotate(-90deg);
 }
 .faq-answer {
     display: none;

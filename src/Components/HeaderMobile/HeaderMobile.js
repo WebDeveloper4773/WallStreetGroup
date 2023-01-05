@@ -32,15 +32,15 @@ const HeaderMobile = (props) => {
                     <div className='menu-container-item'>
                         <NavLink to="/Crypto" onClick={() => onClick()} className="control-item-text">Крипта</NavLink>
                     </div>
-                    <div className='menu-container-item'>
+                    {/* <div className='menu-container-item'>
                         <NavLink to="#" onClick={() => onClick()} className="control-item-text">Робот</NavLink>
-                    </div>
+                    </div> */}
                     <div className='menu-container-item'>
                         <NavLink to="/FAQ" onClick={() => onClick()} className="control-item-text">Вопрос-ответ</NavLink>
                     </div>
-                    <div className='menu-container-item'>
+                    {/* <div className='menu-container-item'>
                         <NavLink to="#" onClick={() => onClick()} className="control-item-text">О нас</NavLink>
-                    </div>
+                    </div> */}
                 </div>
             </div>
             <div className='header-mobile'>

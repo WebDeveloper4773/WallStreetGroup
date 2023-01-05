@@ -17,7 +17,7 @@ const CryptoMain = () => {
             <WeDoingContainer />
             <TrustContainer />
             <Quote />
-            <History />
+            {/* <History /> */}
             <Team />
             <FAQ />
             <Price />

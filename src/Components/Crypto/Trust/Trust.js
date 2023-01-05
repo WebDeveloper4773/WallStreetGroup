@@ -19,7 +19,7 @@ const Trust = () => {
                     <div className="trust-about">
                         <h4>Открытая статистика</h4>
                         <p>Публикуем результаты сделок в открытой группе.</p>
-                        <a href="https://docs.google.com/spreadsheets/d/1y8IpzvQFm-NRurZpMcZZK2XlgJehyKuwBFJiusTft6s/edit#gid=0">Посмотреть <img src={Frame44} href="#"/></a>
+                        <a target="_blank" href="https://docs.google.com/spreadsheets/d/1y8IpzvQFm-NRurZpMcZZK2XlgJehyKuwBFJiusTft6s/edit#gid=0">Посмотреть <img src={Frame44} href="#"/></a>
                     </div>
                     <img src={Frame58} className="trust-img1" href='#'/>
                 </div>
@@ -27,13 +27,13 @@ const Trust = () => {
                     <img src={Frame59} className="trust-img2" href='#'/>
                     <div className="trust-about">
                         <h4>Безопасные сделки</h4>
-                        <p>Мы не имеет доступ к вашим средствам. Вы оплачиваете только подписку. Пройдя наше обучение вы узнаете основы безопасности в сети и никто не сможет вас заскамить.</p>
+                        <p>Мы не имеет доступ к вашим средствам. Вы оплачиваете только подписку. В каждой сделке указаны цели, стоп лоссы, точки входа.</p>
                     </div>
                 </div>
                 <div className="trust-item">
                     <div className="trust-about">
                         <h4>Качественное обучение</h4>
-                        <p>У нас одно из лучших обучений. Вы узнаете теорию и получите практику. На заключительном этапе вы можете пройти тестирование.</p>
+                        <p>Торгуя по нашим сигналам и учавсвуя в проектах, вы получите много опыта и практики. Многие наши подписчики стали профессиональными трейдерами.</p>
                     </div>
                     <img src={Frame60} className="trust-img1" href='#'/>
                 </div>

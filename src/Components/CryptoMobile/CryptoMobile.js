@@ -19,7 +19,7 @@ const CryptoMainMobile = () => {
             <WeDoingMobile />
             <TrustMobile />
             <QuoteMobile />
-            <HistoryMobile />
+            {/* <HistoryMobile /> */}
             <TeamMobile />
             <FAQMobile />
             <PriceMobile />

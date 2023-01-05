@@ -15,8 +15,8 @@ const StatMobile = () => {
                     <p>успешных прогнозов</p>
                 </div>
                 <div className="stat-item stat-last">
-                    <span>&gt;100K</span>
-                    <p>$ заработали подписчики</p>
+                    <span>30%</span>
+                    <p>средняя прибыль сделки</p>
                 </div>
             </div>
         </div>

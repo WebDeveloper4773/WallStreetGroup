@@ -1,7 +1,8 @@
 import React from 'react'
 import './Team.css'
 import Team1 from './../../img/team1.png'
-import Team2 from './../../img/team2.png'
+import Team2 from './../../img/mars.jpg'
+import Team3 from './../../img/Anon.png'
 import Inst from './../../Svg/Instagram'
 
 const Team = () => {
@@ -18,29 +19,29 @@ const Team = () => {
                     <div className="team-about">
                         <div className="team-name">
                             <span>Айдар Саляхов</span>
-                            <a href="https://t.me/millioner">@millioner</a>
+                            <a target="_blank" href="https://t.me/millioner">@millioner</a>
                         </div>
-                        <a href="https://t.me/millioner"><Inst /></a>
+                        <a target="_blank" href="https://instagram.com/aidar.salyakhov?igshid=YmMyMTA2M2Y=r"><Inst /></a>
                     </div>
                 </div>
                 <div className="team-item">
                     <img src={Team2}/>
                     <div className="team-about">
                         <div className="team-name">
-                            <span>Бенедикт Суперскотч</span>
-                            <a href="https://t.me/millioner">@millioner</a>
+                            <span>Ахметшин Марсель</span>
+                            <a target="_blank" href="https://t.me/millioner">@millioner</a>
                         </div>
-                        <a href="https://t.me/millioner"><Inst /></a>
-                    </div>
+                        <a target="_blank" href="https://instagram.com/mars.amr?igshid=YmMyMTA2M2Y="><Inst /></a>
+                    </div>llioner
                 </div>
                 <div className="team-item">
-                    <img src={Team2}/>
+                    <img src={Team3}/>
                     <div className="team-about">
                         <div className="team-name">
-                            <span>Бенедикт Суперскотч</span>
-                            <a href="https://t.me/millioner">@millioner</a>
+                            <span>Трейдеры WallStreet</span>
+                            {/* <a target="_blank" href="https://t.me/millioner">@millioner</a> */}
                         </div>
-                        <a href="https://t.me/millioner"><Inst /></a>
+                        {/* <a target="_blank" href="https://t.me/millioner"><Inst /></a> */}
                     </div>
                 </div>
             </div>

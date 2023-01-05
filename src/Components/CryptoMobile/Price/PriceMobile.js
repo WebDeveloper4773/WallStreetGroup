@@ -32,7 +32,7 @@ const PriceMobile = () => {
                     <div className="price-item">
                         <Vector2 />
                         <span>
-                            Чат с участниками
+                            Канал с IDO, проектами web3
                         </span>
                     </div>
                     <div className="price-item">
@@ -41,17 +41,11 @@ const PriceMobile = () => {
                             Канал с сигналами
                         </span>
                     </div>
-                    <div className="price-item price-last">
-                        <Vector2 />
-                        <span>
-                            Канал с аналитикой и новостями
-                        </span>
-                    </div>
                 </div>
             </div>
             <div className="price-about">
                 <h4>Свяжитесь с нами,<br/> чтобы приобрести подписку</h4>
-                <a href="https://t.me/millioner" className="price-link">
+                <a target="_blank" href="https://t.me/millioner" className="price-link">
                     <TG2 />
                     <span>
                         @millioner

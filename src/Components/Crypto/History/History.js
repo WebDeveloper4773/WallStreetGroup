@@ -14,13 +14,13 @@ const History = () => {
                 <div className="history-item">
                     <div className="history-item-img history-img-1"></div>
                     <div className="history-absolute">
-                        <p>Кирилл смог уволиться с работы и посвятить освободившееся время предпринимательству</p>
+                        <p>Кирилл стал профессиональным трейдером, начав с нашего канала</p>
                     </div>
                 </div>
                 <div className="history-item">
                     <div className="history-item-img history-img-2"></div>
                     <div className="history-absolute">
-                        <p>Саня купил автомобиль без кредита и совмещает инвестиции с работой</p>
+                        <p>Александр купил автомобиль без кредита и совмещает инвестиции с работой</p>
                     </div>
                 </div>
                 <div className="history-item">

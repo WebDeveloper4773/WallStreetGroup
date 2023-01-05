@@ -1,6 +1,6 @@
 import React from 'react'
 import './Quote.css'
-import Avatar from './../../img/Avatar.png'
+import Avatar from './../../img/ars.jpg'
 
 
 const Quote = () => {

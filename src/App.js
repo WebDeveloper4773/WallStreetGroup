@@ -22,7 +22,7 @@ function App() {
           <Route exact path="/" component={CryptoMainContainer} />
           <Route exact path="/Crypto" component={CryptoMainContainer} />
           <Route exact path="/FAQ" component={FAQ} />
-          <Footer />
+          {/* <Footer /> */}
         </div>
     </div>
   );

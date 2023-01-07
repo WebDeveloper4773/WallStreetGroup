@@ -21,7 +21,7 @@ const Team = () => {
                             <span>Айдар Саляхов</span>
                             <a target="_blank" href="https://t.me/millioner">@millioner</a>
                         </div>
-                        <a target="_blank" href="https://instagram.com/aidar.salyakhov?igshid=YmMyMTA2M2Y=r"><Inst /></a>
+                        <a target="_blank" href="https://t.me/millioner"><Inst /></a>
                     </div>
                 </div>
                 <div className="team-item">
@@ -32,16 +32,14 @@ const Team = () => {
                             <a target="_blank" href="https://t.me/millioner">@millioner</a>
                         </div>
                         <a target="_blank" href="https://instagram.com/mars.amr?igshid=YmMyMTA2M2Y="><Inst /></a>
-                    </div>llioner
+                    </div>
                 </div>
                 <div className="team-item">
                     <img src={Team3}/>
                     <div className="team-about">
                         <div className="team-name">
                             <span>Трейдеры WallStreet</span>
-                            {/* <a target="_blank" href="https://t.me/millioner">@millioner</a> */}
                         </div>
-                        {/* <a target="_blank" href="https://t.me/millioner"><Inst /></a> */}
                     </div>
                 </div>
             </div>
